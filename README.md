@@ -23,3 +23,7 @@ for my ia241 class
 * item1
 * item2
 * item3
+
+[lab1](https://github.com/Alyssa-Christenbury/ia241/blob/main/lab1.py)
+
+![jmu image](https://www.jmu.edu/_images/_story-rotator/full-width-images/choices2-2000x666.jpg)
