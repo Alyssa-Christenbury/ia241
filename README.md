@@ -10,3 +10,7 @@ for my ia241 class
 
 
 ### level 3 heading
+
+**bold**
+*italics*
+>quote
